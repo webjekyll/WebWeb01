@@ -1,1 +1,15 @@
+title: Hello WebWeb01
+description: (V001-20190627) WebWeb01 with jekyll-theme-hacker
+email: e@ma.il
+show_downloads: false
+google_analytics:
+
 theme: jekyll-theme-hacker
+
+# theme: jekyll-theme-dinky
+# theme: jekyll-theme-merlot
+# theme: jekyll-theme-midnight
+
+# Fixing the "No GitHub API authentication could be found" ??
+github: [metadata]
+
