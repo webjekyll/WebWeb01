@@ -5,6 +5,7 @@ layout: default
 ---
 
 ### [back](./)
+#### [dir](/)
 
 # [GitHub Pages](https://pages.github.com/)
 
