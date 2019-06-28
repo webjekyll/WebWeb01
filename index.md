@@ -3,7 +3,7 @@
 
 # WebWeb01
 
-- [Page 2](./page2.html)
+- [Page 2](/whatever/newPage2.html)
 
 - [Page 3](dir/page3.html)
 
