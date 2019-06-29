@@ -65,3 +65,19 @@ bundle exec jekyll serve --draft
 ```
 
 ### [back](../)
+
+```
+
+default:
+   -
+      scope:
+       path: ""
+       type: "posts"
+      values:
+         layout: "post"
+         title:  "My Title"
+
+
+```
+
+### [back](../)

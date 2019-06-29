@@ -243,7 +243,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  liquid (= 4.0.0)
 
 BUNDLED WITH
    2.0.2
