@@ -5,9 +5,9 @@ layout: default
 permalink: /whatever/newPage4.html
 ---
 
-### [back](./)
+### [back1](/)
 
-# Does Not Work on GitHub Pages
+# Does It Work on GitHub Pages?
 
-### [back](./)
+### [back2](../)
 
