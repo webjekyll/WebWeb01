@@ -3,9 +3,11 @@
 
 # WebWeb01
 
-- [Page 2](/whatever/newPage2.html)
+- [Page 2](./page2.html)
 
 - [Page 3](dir/page3.html)
+
+- [Page 4](./whatever/newPage4.html) -- Does not work on GitHub Pages.
 
 - [GitHub Pages](https://webjekyll.github.io/WebWeb01/)
 

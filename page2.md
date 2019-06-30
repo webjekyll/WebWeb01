@@ -2,11 +2,9 @@
 title: Page 2
 description: This is just another page
 layout: default
-permalink: /whatever/newPage2.html
 ---
 
 ### [back](./)
-#### [dir](/)
 
 # [GitHub Pages](https://pages.github.com/)
 
