@@ -45,7 +45,7 @@ plugins:
 ## Eg2.
 
 ```
-default:
+defaults:
    -
       scope:
        path: ""
@@ -53,6 +53,27 @@ default:
       values:
          layout: "post"
          title:  "My Title"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "my-site"
+  -
+    scope:
+      path: "projects"
+      type: "pages" 
+    values:
+      layout: "project"
+      author: "Mr. Hyde"
+      category: "project"
+  -
+    scope:
+      path: ""
+      type: "my_collection" 
+    values:
+      layout: "default"
+
 
 ```
 
