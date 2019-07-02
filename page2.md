@@ -16,6 +16,14 @@ layout: default
      https://youtu.be/CLCaJJ1zUHU
     )
 
+- [Variables](
+   https://jekyllrb.com/docs/variables/
+  )
+
+- [Themes](
+   https://rubygems.org/search?query=jekyll-theme
+  )
+
 - [Free themes for Bootstrap](
    https://bootswatch.com/
   )
