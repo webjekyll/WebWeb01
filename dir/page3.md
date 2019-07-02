@@ -8,9 +8,11 @@ categories: AAA BBB
 ### [back](../)
 #### [dir](./)
 
-```
-
 # _config.yml
+
+## Eg1.
+
+```
 markdown: kramdown
 theme: minima
 rms46@rmsbase:~/tmp/dumdum$ vi _config.yml 
@@ -40,10 +42,27 @@ plugins:
 
 ```
 
-### [back](../)
+## Eg2.
+
+```
+default:
+   -
+      scope:
+       path: ""
+       type: "posts"
+      values:
+         layout: "post"
+         title:  "My Title"
 
 ```
 
+### [back](../)
+
+# Front Mater
+
+## Eg1.
+
+```
 ---
 layout: post
 title:  "Welcome to Jekyll!"
@@ -58,26 +77,14 @@ permalink: /:categories/:day/:year/:month/:title.html
 
 ### [back](../)
 
-```
+# Bundle
 
+## Eg1.
+
+```
 bundle exec jekyll serve --draft
-
 ```
 
 ### [back](../)
 
-```
 
-default:
-   -
-      scope:
-       path: ""
-       type: "posts"
-      values:
-         layout: "post"
-         title:  "My Title"
-
-
-```
-
-### [back](../)
