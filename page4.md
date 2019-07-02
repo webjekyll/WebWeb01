@@ -10,7 +10,5 @@ permalink: /whatever/newPage4.html
 
 # Does It Work on GitHub Pages?
 
-{{ categories }}
-
-### [back2](../)
+### [back2](/)
 
