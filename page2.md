@@ -45,5 +45,9 @@ layout: default
      https://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/
     )
 
+  - [COMBINE lab](
+     https://github.com/COMBINE-lab/COMBINE-lab.github.io
+    )
+
 ### [back](./)
 
