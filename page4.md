@@ -8,7 +8,26 @@ layout: mylayout
 
 ### [back](../)
 
-# Does It Work on GitHub Pages?
+- site <br> {{ site }}
+
+- site.time <br> {{ site.time }}
+
+- page <br> {{ page }}
+
+- layout <br> {{ layout }}
+
+# NOT YET
+
+- paginate <br> {{ paginate }}
+
+- paginator <br> {{ paginator }}
+
+# LONG
+
+- content
+  <hr>
+  {{ content }}
+  <hr>
 
 ### [back](../)
 
