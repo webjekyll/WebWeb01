@@ -8,28 +8,20 @@ layout: mylayout
 
 ### [back](../)
 
-<<<<<<< HEAD
 <ul>
 <li>site.time: {{ site.time }}</li>
 <li>site.url: {{ site.url }}</li>
 </ul>
 
-page.title:
-{{ page.title }}
-
-page.content:
-{{ page.content }}
-
-
-||||||| merged common ancestors
-# Does It Work on GitHub Pages?
-=======
 - site <br> {{ site }}
->>>>>>> 5b099786c4a9a8dbe34537905af637914f394e9a
 
 - site.time <br> {{ site.time }}
 
 - page <br> {{ page }}
+
+- page.title: <br> {{ page.title }}
+
+- page.content: <br> {{ page.content }}
 
 - layout <br> {{ layout }}
 
