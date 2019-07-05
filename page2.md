@@ -36,5 +36,14 @@ layout: default
    https://themeforest.net/
   )
 
+- ** MORE **
+  - [beautiful-jekyll](
+     https://deanattali.com/beautiful-jekyll/
+    )
+
+  - [GitHub Pages Non Rubyists](
+     https://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/
+    )
+
 ### [back](./)
 
