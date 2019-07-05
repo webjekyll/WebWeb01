@@ -8,7 +8,18 @@ layout: mylayout
 
 ### [back1](../)
 
-# Does It Work on GitHub Pages?
+<ul>
+<li>site.time: {{ site.time }}</li>
+<li>site.url: {{ site.url }}</li>
+</ul>
+
+page.title:
+{{ page.title }}
+
+page.content:
+{{ page.content }}
+
+
 
 ### [back2](../)
 
