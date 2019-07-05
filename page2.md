@@ -36,7 +36,7 @@ layout: default
    https://themeforest.net/
   )
 
-- ** MORE **
+- **MORE**
   - [beautiful-jekyll](
      https://deanattali.com/beautiful-jekyll/
     )
@@ -47,6 +47,11 @@ layout: default
 
   - [COMBINE lab](
      https://github.com/COMBINE-lab/COMBINE-lab.github.io
+    )
+
+- **Q&A**
+  - [Page not showing the theme](
+     https://github.community/t5/GitHub-Pages/Page-not-showing-the-theme/td-p/5545
     )
 
 ### [back](./)
