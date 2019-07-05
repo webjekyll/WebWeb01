@@ -6,9 +6,9 @@ permalink: /whatever/newPage4.html
 layout: mylayout
 ---
 
-### [back1](../)
+### [back](../)
 
 # Does It Work on GitHub Pages?
 
-### [back2](../)
+### [back](../)
 
