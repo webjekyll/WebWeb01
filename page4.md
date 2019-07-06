@@ -14,18 +14,21 @@ layout: mylayout
 <li>site: {{ site }}</li>
 <li>site.time: {{ site.time }}</li>
 <li>site.url: {{ site.url }}</li>
-<li>page.title: {{ page.title }} </li>
 <li>layout: {{ layout }}</li>
+<li>page.title: {{ page.title }} </li>
+<li>page.url: {{ page.url }} </li>
 </ul>
 
 ### [back](../)
 
 # Variables?
 
-- paginate <br> {{ paginate }}
-
-- paginator <br> {{ paginator }}
-
+<ul>
+<li>page.date: {{ page.date }} </li>
+<li>page.id: {{ page.id }} </li>
+<li>paginate:  {{ paginate  }} </li>
+<li>paginator: {{ paginator }} </li>
+</ul>
 
 ### [back](../)
 
